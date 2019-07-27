@@ -1,4 +1,4 @@
-> **[[libraryNameWithSpacesAndUpperCases]](README.md)**
+> **[RSCSS Variants](README.md)**
 
 ## Index
 
